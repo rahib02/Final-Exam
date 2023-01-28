@@ -1,0 +1,42 @@
+.homebody1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    padding:  0 20%;
+}
+.homebody1_cards{
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.homebody1_card{
+    width: 30%;
+}
+.homebody1_card_icon{
+   font-size: 55px;
+}
+.card_p_balck{
+    color: rgb(34, 34, 34);
+    font-weight: 600;
+    font-size: 18px;
+    font-style: normal;
+    line-height: 22.75px;
+    text-decoration: none;
+    transform: none;
+    font-family: Poppins;
+    letter-spacing: 0;
+}
+.card_p_whitesmoke{
+    padding: 0 15%;
+    color: rgb(119, 119, 119);
+        font-weight: 300;
+        font-size: 14px;
+        font-style: normal;
+        line-height: 22.75px;
+        text-decoration: none;
+        transform: none;
+        font-family: Poppins;
+        letter-spacing: 0;}

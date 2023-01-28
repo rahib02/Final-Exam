@@ -1,0 +1,30 @@
+.footer{
+    margin-top: 50px;
+    background-color: rgb(39, 35, 35);
+    box-sizing: border-box;
+    padding: 20px 20%;
+    display: flex;
+    text-align: start;
+    color: white;
+}
+h4{
+    margin: 0;
+    margin-bottom: 20px;
+}
+.footer_stat{
+    margin-top: 0;
+    width: 33%;
+    padding: 20px;
+}
+.footer_mid{
+    margin-top: 0;
+    width: 33%;
+}
+.footer_mid input{
+    margin-top: 20px;
+    width: 200px;
+}
+.footer_end{
+    margin-top: 0;
+    width: 33%;
+}

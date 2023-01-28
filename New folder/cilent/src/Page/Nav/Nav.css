@@ -1,0 +1,33 @@
+.navbar{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: black;
+    display: flex;
+    position: fixed;
+    padding: 0 20%;
+    justify-content: space-between;
+    height: 80px;
+    
+}
+.navbar_header_img{
+    margin-top:auto ;
+    margin-bottom: auto;
+}
+.navbar_link_ul ul{
+    list-style: none;
+    display: flex;
+    margin-top:auto ;
+    margin-bottom: auto;
+}
+
+.navbar_link_ul li{
+    margin: 0 10px ;
+    margin-top:auto ;
+    margin-bottom: auto;
+}
+.navbar_link_ul a{
+    text-decoration: none;
+    color: white;
+    margin-top:auto ;
+    margin-bottom: auto;
+}

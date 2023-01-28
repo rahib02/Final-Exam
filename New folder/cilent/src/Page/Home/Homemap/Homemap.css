@@ -1,0 +1,35 @@
+.homemap{
+    width: 100%;
+    padding:  30px 20%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.formmap{
+    width: 500px;
+}
+.mapform{
+    text-align: start;
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+}
+.mapform input{
+        width: 400px;
+        height: 35px;
+
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
+.mapform button{
+    width: 200px;
+    border: none;
+    border-radius: 15px;
+
+
+
+}
+.mapmessage{
+    height: 200px !important;
+}

@@ -1,0 +1,58 @@
+.homebody2{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #04091e;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    padding: 60px  20%;
+}
+.homebody2_h2{
+
+    font-weight: 600;
+    font-size: 36px;
+    font-style: normal;
+    line-height: 43px;
+    text-decoration: none;
+    transform: none;
+    font-family: Poppins;
+    letter-spacing: 0;
+}
+.homebody2_p{
+
+    font-weight: 300;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 22.75px;
+    text-decoration: none;
+    transform: none;
+    font-family: Poppins;
+    letter-spacing: 0;
+}
+
+.homebody2_btn{
+    margin: auto;
+    margin-top: 10px;
+    color:black;
+    margin-bottom: auto;
+    font-weight: 500;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 42px;
+    text-decoration: none;
+    transform: uppercase;
+    font-family: Poppins;
+    letter-spacing: 0;
+    background-color: white;
+    
+    width: 250px;
+    border-radius: 25px;
+    border:1px red white;
+}
+.homebody2_btn:hover{
+    border: 1px white solid;
+    background-color: black;
+    color: white;
+}

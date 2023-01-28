@@ -1,0 +1,19 @@
+.Add{
+    width: 100%;
+}
+.form{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.form input{
+    width: 300px;
+    margin:15px auto;
+    height: 35px;
+}
+.form button{
+    width: 200px;
+    margin: auto;
+    border-radius: 20px;
+}
